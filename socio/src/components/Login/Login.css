@@ -1,0 +1,30 @@
+.Maincontainer
+{
+    background-color:whitesmoke;
+    width: 100%;
+   height: auto;
+}
+#sociologo
+{
+width:30%;
+}
+#btnLogIn{
+  margin-top:1em;
+  color:white;
+  font-size: large;
+  background-color:black;
+  padding :1em;
+  width:100%;
+  border-radius: 2em;
+  box-shadow: 2px 1px grey;
+  cursor: pointer;
+}
+#btnLogIn:hover{
+  background-color:#081121 ;
+}
+#forgetPass
+{
+  text-decoration: none;
+  position: relative;
+  left:10em;
+}

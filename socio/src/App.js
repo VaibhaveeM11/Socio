@@ -24,7 +24,6 @@ function App() {
         <Route path="/"  exact component={Home}/>
         <Route path="/SignUp" component={Signup}/>
         <Route path="/Login" component={Login}/>
-    
 
       </Switch>
     </div>
