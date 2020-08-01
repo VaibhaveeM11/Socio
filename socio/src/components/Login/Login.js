@@ -8,7 +8,6 @@ import {
     faYoutube,
     faFacebook,
     faTwitter,
-    faInstagram
   } from "@fortawesome/free-brands-svg-icons";
 // 040911
 //B2AA8E
@@ -63,12 +62,6 @@ class Login extends Component {
       </a>
       <a href="https://www.twitter.com/jamesqquick" className="twitter social">
         <FontAwesomeIcon icon={faTwitter} size="2x" />
-      </a>
-      <a
-        href="https://www.instagram.com/learnbuildteach"
-        className="instagram social"
-      >
-        <FontAwesomeIcon icon={faInstagram} size="2x" />
       </a>
     
  </div>
